@@ -24,7 +24,7 @@
 * 📌 Core Areas:
 
   * Dynamic Programming
-  * Graphs & Trees
+  * Arrays & Strings
   * Sliding Window & Greedy
 * 🧩 Approach: Optimize brute force → efficient solutions
 
