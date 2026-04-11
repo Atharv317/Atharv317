@@ -27,9 +27,10 @@
   * Arrays & Strings
   * Sliding Window & Greedy
 * 🧩 Approach: Optimize brute force → efficient solutions
+* 📅 Consistent coding streak (active LeetCode heatmap)
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/AtharvShukla31?theme=dark&font=baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/AtharvShukla31?theme=dark&ext=heatmap&v=2" />
 </p>
 
 ---
@@ -48,14 +49,14 @@
 * 🎯 ML-based job-role prediction
 * ⚡ REST API integration
 
-👉 **Tech Stack:** Django + React + Scikit-learn + NLP
+👉 **Tech Stack:** Django + Scikit-learn + NLP + Machine Learning
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,django,react,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,django,git,github,vscode" />
 </p>
 
 ---
@@ -63,9 +64,9 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Atharv317&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharv317&theme=radical" />
 </p>
 
 ---
