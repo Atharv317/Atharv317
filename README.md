@@ -22,7 +22,7 @@
 - 💪 Solved **300+ problems**
 - 🔥 LeetCode: https://leetcode.com/AtharvShukla31
 - 📌 Core Areas:
-  - Dynamic Programming  
+  - Recursion & Dynamic Programming  
   - Arrays & Strings  
   - Sliding Window & Greedy  
 - 🧩 Approach: Optimize brute force → efficient solutions  
